@@ -1,27 +1,148 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on<br>🚀 Full Stack applications, Cloud & DevOps solutions, and AI-powered automation<br><br>🤝 I’m looking to collaborate on<br>🌐 Full Stack | ☁️ Cloud & DevOps | 🤖 AI Automation | Open Source projects<br><br>🛠️ I’m looking for help with<br>⚙️ Cloud Architecture | Infrastructure as Code | AI Automation | Scalable Applications<br><br>🌱 I’m currently learning<br>☁️ Microsoft Azure<br>🏗️ Terraform & Infrastructure as Code<br>🐳 Docker & Kubernetes<br>🔄 CI/CD & DevOps<br>🤖 AI Automation & AI-powered workflows<br>🌐 Modern Full Stack Development<br><br>💬 Ask me about<br>💻 Full Stack Development | Git & GitHub | Azure | Terraform | DevOps | AI Automation<br><br>⚡ Fun fact<br>🚀 I love turning ideas into real-world applications and automating repetitive tasks with technology.
+<div align="center">
 
+<!-- MOTION GRAPHICS HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:09090b,25:18181b,55:0f172a,80:1e293b,100:0284c7&height=220&section=header&text=Vishesh%20Indorkar&fontSize=42&fontColor=f8fafc&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Architect%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder&descFontSize=16&descAlignY=62&descColor=94a3b8" width="100%" alt="Vishesh Indorkar Header Banner" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CjWz5YzMM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishesh_indorkar_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishesh.i.tech@gmail.com) 
+<!-- DYNAMIC TYPING SVG MOTION TERMINAL -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&background=09090B00&center=true&vCenter=true&multiline=true&width=700&height=85&lines=%E2%9E%9C+Architecting+Scalable+Cloud+Infrastructure+with+Azure+%26+Terraform;%E2%9E%9C+Building+High-Performance+Full-Stack+Apps+with+React+%26+FastAPI;%E2%9E%9C+Engineering+AI-Driven+Automations+%26+Intelligent+Workflows;%E2%9E%9C+Automating+Declarative+GitOps+%26+CI%2FCD+Pipelines" alt="Typing Motion Terminal" />
+</a>
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishesh-i-tech&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vishesh-i-tech&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishesh-i-tech&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishesh-i-tech&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<!-- SHADCN BADGE PILLS -->
+<p align="center">
+  <a href="mailto:vishesh.i.tech@gmail.com"><img src="https://img.shields.io/badge/Email-vishesh.i.tech%40gmail.com-09090b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=18181b" alt="Email" /></a>
+  <a href="https://linkedin.com/in/vishesh006"><img src="https://img.shields.io/badge/LinkedIn-Vishesh-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=18181b" alt="LinkedIn" /></a>
+  <a href="https://discord.gg/CjWz5YzMM"><img src="https://img.shields.io/badge/Discord-Join%20Chat-09090b?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=18181b" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Location-Indore%2C%20India-09090b?style=for-the-badge&logo=googlemaps&logoColor=34A853&labelColor=18181b" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-09090b?style=for-the-badge&logo=statuspage&logoColor=10B981&labelColor=18181b" alt="Status" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishesh-i-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vishesh-i-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🍱 System Architecture & Bento Matrix
+
+<table width="100%">
+  <!-- ROW 1: CLOUD & FULLSTACK -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & DevOps Infrastructure</h3>
+      <p><em>Enterprise IaC, container orchestration, and automated CI/CD pipelines.</em></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,gitlab,bash,powershell&perline=4&theme=dark" alt="DevOps Stack" />
+      </a>
+      <br/><br/>
+      <ul>
+        <li><strong>Cloud Provider:</strong> Microsoft Azure (VNet, App Services, VMs, Key Vault, IAM)</li>
+        <li><strong>Infrastructure as Code:</strong> Terraform, Modular Enterprise Blueprints</li>
+        <li><strong>CI/CD & Pipelines:</strong> GitHub Actions, GitLab CI, Automated Testing</li>
+        <li><strong>Orchestration:</strong> Docker, Kubernetes, Microservice Clusters</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Modern Full Stack & AI Systems</h3>
+      <p><em>Reactive UI interfaces, low-latency microservices, and AI integrations.</em></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,fastapi,python,postgres,mongodb&perline=4&theme=dark" alt="Full Stack" />
+      </a>
+      <br/><br/>
+      <ul>
+        <li><strong>Frontend:</strong> React, Vite, TypeScript, TailwindCSS, Next.js</li>
+        <li><strong>Backend & APIs:</strong> FastAPI, Node.js, Express, Python, C++</li>
+        <li><strong>Databases:</strong> PostgreSQL, MongoDB, MySQL, Supabase</li>
+        <li><strong>AI & Automation:</strong> LLM Integrations, Agentic Workflows, Process Automation</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- ROW 2: FEATURED WORK & LIVE ACTIVITY -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Flagship Projects</h3>
+      <table>
+        <tr>
+          <td>
+            <strong>🏗️ <a href="https://github.com/vishesh-i-tech/SITE-MANAGEMENT">SITE-MANAGEMENT</a></strong> <code>🟢 Live</code><br/>
+            Obsidian-themed, zero-build multi-site Construction & Logistics Management Dashboard.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>🩺 <a href="https://github.com/vishesh-i-tech/MedAccess-AI">MedAccess AI</a></strong> <code>⚡ Active</code><br/>
+            AI-powered medical triage and healthcare accessibility system.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>☁️ <a href="https://github.com/vishesh-i-tech/azure-terraform-labs">Azure Terraform Labs</a></strong> <code>🟢 Production</code><br/>
+            Modular Infrastructure as Code blueprints and automated Azure resource provisioning.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>📋 <a href="https://github.com/vishesh-i-tech/FieldLog">FieldLog (SiteSaathi)</a></strong> <code>⚡ Active</code><br/>
+            Real-time daily reporting, personnel tracking, and field operational record keeping.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>🏡 <a href="https://github.com/vishesh-i-tech/FLEXISTAY">FLEXISTAY</a></strong> <code>⚡ Active</code><br/>
+            Modern property management and frictionless rental accommodation portal.
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Performance & Live Metrics</h3>
+      <div align="center">
+        <a href="https://github.com/vishesh-i-tech">
+          <img src="https://streak-stats.demolab.com/?user=vishesh-i-tech&theme=tokyonight&hide_border=true&background=09090b" width="95%" alt="Streak Stats" />
+        </a>
+        <br/>
+        <a href="https://github.com/vishesh-i-tech">
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vishesh-i-tech&layout=compact&theme=transparent&hide_border=true" width="95%" alt="Top Languages" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Technical Skill Index (Shadcn-styled)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+---
+
+<div align="center">
+
+<!-- MOTION WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:09090b,40:0f172a,100:1e293b&height=110&section=footer" width="100%" alt="Footer Wave" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishesh-i-tech&label=PROFILE+VIEWS&color=0284c7&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
